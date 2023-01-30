@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MinguyJeon%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MinguyJeon%20&fontSize=90)
 
 <h1 align='center'>
   Hi there 👋 I'm Mingyu 👩🏻‍💻
