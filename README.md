@@ -38,3 +38,8 @@
 <a href="https://github.com/smart0515"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"></a>
 </p><br>
 
+###
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smart0515)](https://solved.ac/smart0515/)
+
+
+
