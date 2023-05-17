@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=49B48A&height=300&section=header&text=Hi,%20l'm%20Mingyu!%20&fontColor=E8E8E8&rotate=0&descAlign=70)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/smart0515&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <p align='center'>
   <b>undergraduate student majoring in Data Science at SJU.</b></p>
 
@@ -38,8 +37,11 @@
 <a href="https://github.com/smart0515"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"></a>
 </p><br>
 
-###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smart0515)](https://solved.ac/smart0515/)
+<div style="display: flex; justify-content: center;">
+    <a href="https://solved.ac/smart0515/" style="text-align: center;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=smart0515" alt="Solved.ac Profile">
+    </a>
+</div>
 
 
 
